@@ -1,0 +1,30 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color:#e5f6ff !important;
+  }
+ 
+  .card {
+    margin: 40px auto;
+    max-width:80%;
+  }
+  input {
+    background-color: rgb(64, 64, 251);
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+    width: 250px;
+    margin-top: 5px;
+  }
+  .flex {
+    display: flex;
+    justify-content: center;
+  }
+  .card-body {
+    background-color: rgb(245, 245, 245);
+    font-weight: 400;
+    height: auto;
+  }
+  p {
+    font-size: 14px;
+  }

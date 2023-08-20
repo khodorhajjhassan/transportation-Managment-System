@@ -1,0 +1,44 @@
+text {
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+  }
+  .send{
+    margin-bottom:30px;
+  }
+  .one {
+    font-weight: bold;
+  }
+
+  .two {
+    font-weight: bold;
+  }
+  .star-button {
+border: none;
+background: none;
+padding: 0;
+cursor: pointer;
+}
+footer{
+margin-top:40px;
+}
+.comment-area {
+padding:10px;
+}
+.comment-area textarea{
+border:none;
+border-bottom:1px solid #ddd;
+padding:10px;
+outline: red;
+
+}
+.scale:hover{
+  cursor: pointer;
+  transform: scale(1.3);
+  transition: all 0.4s;
+}
+a.scale i:hover{
+  cursor: pointer;
+  transform: scale(1.3);
+  transition: all 0.4s;
+}
+

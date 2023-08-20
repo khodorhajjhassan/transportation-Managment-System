@@ -1,0 +1,34 @@
+[
+    {
+        "pin": "24634",
+        "from": "Beirut",
+        "to": "Saida",
+        "date":"2023-05-15",
+        "time":"8:00 AM",
+        "bus_number":"ABC123"
+    },
+    {
+        "pin": "78935",
+        "from": "Beirut",
+        "to": "Tripoli",
+        "date":"2023-08-27",
+        "time":"7:00 AM",
+        "bus_number":"ABC826"
+    },
+    {
+        "pin": "90843",
+        "from": "Beirut",
+        "to": "jounieh",
+        "date":"2023-02-15",
+        "time":"9:00 AM",
+        "bus_number":"ABC111"
+    },
+    {
+        "pin": "90843",
+        "from": "Beirut",
+        "to": "jounieh",
+        "date":"2023-02-15",
+        "time":"9:00 AM",
+        "bus_number":"ABC111"
+    }
+]

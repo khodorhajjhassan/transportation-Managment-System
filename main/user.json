@@ -1,0 +1,36 @@
+[  
+{
+"from": "02:00 Pm",
+"origin": "Beirut",
+"to": "03:40 Pm",
+"destination": "Saida",
+"totaltime": "1h 00m",
+"price": "100000 L.L"  },
+{    
+"from": "10:30 Pm",
+"origin": "Saida",
+"to": "02:10 Am",
+"destination": "Triploi",
+"totaltime": "3h 40m",
+"price": "300000 L.L"  },
+{"from": "09:00 Am",
+"origin": "Sour",
+"to": "10:20 AM",
+"destination": "Saida",
+"totaltime": "1h 20m",
+"price": "120000 L.L"     
+ },
+ {"from": "09:00 Am",
+ "origin": "Sour",
+ "to": "10:20 AM",
+ "destination": "Saida",
+ "totaltime": "1h 20m",
+ "price": "120000 L.L"     
+  } ,
+  {"from": "09:00 Am",
+  "origin": "Sour",
+  "to": "10:20 AM",
+  "destination": "Saida",
+  "totaltime": "1h 20m",
+  "price": "120000 L.L"     
+   }  ]
